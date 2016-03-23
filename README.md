@@ -17,7 +17,7 @@ When supplied with a CSV file with the following columns (without headers):
 
 Looks up in chip it check it database to find the database in which the
 microchip number is found and saves the result to the output file with the 
-following comma-separated fields (again, no header):
+following comma-separated fields (*with* header row):
 
 - pet name
 - microchip number
